@@ -24,3 +24,19 @@ The Expense Tracker Application is a full-stack project consisting of a backend 
 - **Combined List**: Shows a merged list of income and expenses with options to edit or delete.
 - **Search and Filter**: Search and filter expenses and incomes by date or category.
 - **Responsive UI**: The application is mobile-friendly and works seamlessly on both desktop and mobile devices.
+
+## Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Meghavi23/expense-tracker.git
+   cd expense-tracker
+   ```
+   ```bash
+    git submodule update --init --recursive
+    ```
+    # Run this command in all folders which contains submodules
+    ```bash
+      git submodule foreach git checkout master
+     ```
+
