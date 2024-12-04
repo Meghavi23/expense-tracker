@@ -1,0 +1,6 @@
+[submodule "expense-tracker-backend"]
+    path = expense-tracker-backend
+    url = https://github.com/Meghavi23/expense-tracker-backend.git
+[submodule "expense-tracker-frontend"]
+    path = expense-tracker-frontend
+    url = https://github.com/Meghavi23/expense-tracker-frontend.git
